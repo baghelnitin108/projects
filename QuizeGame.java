@@ -61,7 +61,7 @@ public class QuizeGame {
         quiz  q1 = new quiz();
 
         q1.Question = "Which of the following gods is also known as ‘Gauri Nandan’?";
-        q1.option1 = "Agni";
+        q1.option1 = "Agnii";
         q1.option2 = "Chnadra";
         q1.option3 = "Hanuman";
         q1.option4 = "Ganesha";
